@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on custom projects with galactic dynamics
+- 🌱 I’m currently learning about coding artificial neural networks
+- ⚡ Fun fact: I enjoy water skiing and snow skiing!
+
 <!--
 **TNGQpid/TNGQpid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
